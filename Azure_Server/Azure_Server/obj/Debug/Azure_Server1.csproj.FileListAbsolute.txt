@@ -1,0 +1,3 @@
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe.config
+D:\8 sem project\Azure_Server\Azure_Server\obj\Debug\Azure_Server.exe
+D:\8 sem project\Azure_Server\Azure_Server\obj\Debug\Azure_Server.pdb

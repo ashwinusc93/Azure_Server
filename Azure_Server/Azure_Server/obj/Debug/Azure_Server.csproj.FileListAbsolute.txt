@@ -1,0 +1,275 @@
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe.config
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Azure_Server.pdb
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\System.Spatial.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.xml
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.xml
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.xml
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\System.Spatial.xml
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\de\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\es\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\it\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\obj\Debug\Azure_Server.csprojResolveAssemblyReference.cache
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\obj\Debug\Azure_Server.exe
+c:\users\bhima\documents\visual studio 2013\Projects\Azure_Server\Azure_Server\obj\Debug\Azure_Server.pdb
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe.config
+D:\8 sem project\Azure_Server\Azure_Server\obj\Debug\Azure_Server.exe
+D:\8 sem project\Azure_Server\Azure_Server\obj\Debug\Azure_Server.pdb
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Azure_Server.pdb
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\System.Spatial.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.xml
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.xml
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.xml
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\System.Spatial.xml
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\de\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\es\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\fr\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\it\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ja\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ko\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\ru\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\8 sem project\Azure_Server\Azure_Server\obj\Debug\Azure_Server.csprojResolveAssemblyReference.cache
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe.config
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Azure_Server.pdb
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\System.Spatial.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.xml
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.xml
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.xml
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\System.Spatial.xml
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\de\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\es\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\fr\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\it\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ja\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ko\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\ru\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Visual studio programs\Azure_Server\Azure_Server\obj\Debug\Azure_Server.csprojResolveAssemblyReference.cache
+D:\Visual studio programs\Azure_Server\Azure_Server\obj\Debug\Azure_Server.exe
+D:\Visual studio programs\Azure_Server\Azure_Server\obj\Debug\Azure_Server.pdb
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe.config
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Azure_Server.pdb
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\System.Spatial.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.xml
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.xml
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.xml
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\System.Spatial.xml
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Azure_Server\Azure_Server\Azure_Server\obj\Debug\Azure_Server.csprojResolveAssemblyReference.cache
+D:\Azure_Server\Azure_Server\Azure_Server\obj\Debug\Azure_Server.exe
+D:\Azure_Server\Azure_Server\Azure_Server\obj\Debug\Azure_Server.pdb
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe.config
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\obj\Debug\Azure_Server.exe
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\obj\Debug\Azure_Server.pdb
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Azure_Server.exe
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Azure_Server.pdb
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\System.Spatial.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Edm.xml
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.OData.xml
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\Newtonsoft.Json.xml
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\System.Spatial.xml
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\de\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\es\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\fr\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\it\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ja\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ko\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\ru\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\8th Sem Project\Project Codes\Azure_Server\Azure_Server\Azure_Server\obj\Debug\Azure_Server.csprojResolveAssemblyReference.cache
